@@ -39,7 +39,9 @@ python manage.py createsuperuser
 Run the Django server and confirm that you login with your superuser account at ```http://localhost:8000/admin```.
 
 ### Step 3
-Below is a UML diagram for a database. Create this database in Django by modifying ```models.py```. Confirm that it works as expected by logging in at 
+Below is a UML diagram for a database. 
+<img src="https://github.com/brandonbate/activity_06/blob/main/uml.png"/>
+Create this database in Django by modifying ```models.py```. Confirm that it works as expected by logging in at 
 ```http://localhost:8000/admin```.
 Go ahead and create a few entries within the database to see how things work. Try editting and deleting entries as well.
 
