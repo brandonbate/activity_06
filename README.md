@@ -41,6 +41,7 @@ Run the Django server and confirm that you login with your superuser account at 
 ### Step 3
 Below is a UML diagram for a database. Create this database in Django by modifying ```models.py```. Confirm that it works as expected by logging in at 
 ```http://localhost:8000/admin```.
+Go ahead and create a few entries within the database to see how things work. Try editting and deleting entries as well.
 
 ### Step 4
 Create a user account that can create orders and order items, but cannot modify any customer or product data. Confirm that the permissions are as expected by logging in with this user at
