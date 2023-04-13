@@ -1,4 +1,4 @@
-# Activity \#2
+# Activity \#6
 
 ### Step 1
 Create a django project named ```superdb``` with an app named ```db```.
