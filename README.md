@@ -6,7 +6,7 @@ Add to ```settings.py```:
 ```
 AUTH_USER_MODEL = 'db.User'
 ```
-Also add the the ```db``` app to the list of 
+Also add the ```db``` app to the list of ```INSTALLED_APPS```.
 
 Add to ```admin.py```:
 ```	
